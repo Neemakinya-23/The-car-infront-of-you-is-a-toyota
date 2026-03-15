@@ -1,0 +1,5 @@
+﻿yolo_v8_env/
+logo_cls/
+runs/
+__pycache__/
+*.pyc
