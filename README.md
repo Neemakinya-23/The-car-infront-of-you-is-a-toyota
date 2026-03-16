@@ -46,4 +46,6 @@ Project recording:
 
 [Recording 2026-03-16](./Recording%202026-03-16%20230418.mp4)
 
-Initial project commit.
+## Youtube video for guidance
+[YOLOv8 | Object Detection on a Custom Dataset using YOLOv8 
+Code With Aarohi](https://youtu.be/fhzCwJkDONE?si=3vnpDqxu0tVFWx53)
