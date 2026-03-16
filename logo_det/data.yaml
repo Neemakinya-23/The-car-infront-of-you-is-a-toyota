@@ -1,0 +1,6 @@
+path: C:/Users/Neema/Codes/Computer_vision/logo_det
+train: images/train
+val: images/val
+test: images/test
+nc: 4
+names: ['lexus', 'mazda', 'mercedes', 'toyota']
